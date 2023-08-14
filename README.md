@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am Kuan-Lin Chen, a college student at NPTU
+I have a great research interest in artificial intelligence (AI), deep learning (DL), reinforcement learning (RL) and generative AI. 
+This github stores some of my programming projects, many of which were created when practicing programming.
 
 <!--
 **tzamou/tzamou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

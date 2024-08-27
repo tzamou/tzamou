@@ -1,5 +1,5 @@
 ### Hi there 👋
-😀 I am Kuan-Lin Chen, a college student at NPTU.
+😀 I am Kuan-Lin Chen, a college student at NTU.
 
 🏫 I have a great research interest in artificial intelligence (AI), deep learning (DL), reinforcement learning (RL) and generative AI. 
 
